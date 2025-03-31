@@ -8,7 +8,7 @@
 **Georgina Casillas Rosano**
 
 * [LinkedIn](https://www.linkedin.com/in/georgina-casillas-rosano-data-science)
-* [Portafolio]()
+* [Portafolio](https://github.com/Georgina-Casillas/Dashbord_en_Python)
 
 * Instalación 💻: Este proyecto requiere de instalar Python.
 
